@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HomeworkHamster
+comment0.text=\r\n\ Klasse\ f\u00FCr\ Aufgabe\ 2\ des\ Teils\ B\ von\ \u00DCbungsblatt\ 2\:\r\n\ L\u00E4sst\ Paule\ durch\ das\ Spielfeld\ laufen,\ um\ alle\ Grains\ einzusammeln\ und\r\n\ diese\ in\ seiner\ H\u00F6hle\ (Spalte\ 6,\ Zeile\ 4)\ wieder\ abzulegen.\r\n\ \r\n\ @author\ (Julian\ Gottschlich)\ \r\n\ @version\ (08.11.2018)\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ turnRight()
+numComments=3

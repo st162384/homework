@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CopyOfCopyOfHomeworkHamster
+comment0.text=\r\n\ Klasse\ f\u00FCr\ Aufgabe\ 3\ b)\ des\ Teils\ B\ von\ \u00DCbungsblatt\ 2\:\r\n\ Erweitert\ Aufgabe\ 3\ a),\ indem\ neue\ Methoden\ und\ Variablen\ zum\ Anzeigen\r\n\ des\ "Graincounts"\ deklariert\ werden,\ anstatt\ diesen\ immer\ eigenst\u00E4ndig\r\n\ geschrieben\ anzeigen\ zu\ lassen.\r\n\ \r\n\ @author\ (Julian\ Gottschlich)\ \r\n\ @version\ (08.11.2018)\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ pickGrainAndCount()
+comment3.params=
+comment3.target=void\ putGrainAndCount()
+comment4.params=
+comment4.target=void\ turnRight()
+numComments=5

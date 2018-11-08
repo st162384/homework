@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CopyOfHomeworkHamster
+comment0.text=\r\n\ Klasse\ f\u00FCr\ Aufgabe\ 3\ a)\ des\ Teils\ B\ von\ \u00DCbungsblatt\ 2\:\r\n\ Erweitert\ Aufgabe\ 2\ durch\ Anzeigen\ der\ "Grains"\ im\ Mund\ des\ Hamsters\r\n\ nach\ jedem\ Aufsammeln\ und\ Ablegen\ eines\ solchen.\r\n\ \r\n\ @author\ (Julian\ Gottschlich)\ \r\n\ @version\ (08.11.2018)\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ turnRight()
+numComments=3
